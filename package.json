@@ -1,0 +1,20 @@
+{
+  "name": "firebase-reading-data-start",
+  "version": "1.0.0",
+  "description": "How to setup a javascript project with firebase cloud services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.4",
+    "parcel": "^2.2.1"
+  },
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.2.1",
+    "@parcel/transformer-webmanifest": "^2.2.1"
+  }
+}
